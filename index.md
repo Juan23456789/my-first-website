@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/Juan23456789/my-first-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h1>Meme explination</h1>
+<p>Memes' are humorous images, videos, pieces of text, etc., that is copied (often with slight variations) and spread rapidly by internet users.</p>
+<p>I like memes because they make me laugh and may cheer me up sometimes <p>
+<p>Humor is the quality of being amusing or comic, especially as expressed in literature or speech.<p>
+<p> 
+Laughter is primitive, an unconscious vocalization, Provine says. "In laughter we emit sounds and express emotions that come from deep within our biologic being -- grunts and cackles from our animal unconscious," he writes. Do you seem to laugh more than others? It's likely genetic, he explains.<p>
+<h2>What are emotions </h2>
+</p> Primary emotions such as love, joy, surprise, anger, and sadness can then be further broken down into secondary emotions. Love, for example, consists of secondary emotions, such as affection and longing. These secondary emotions might then be broken down still further into what are known as tertiary emotions.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<img><img>
+<p>i like memes <p>
+<p> memes make me laugh<p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Juan23456789/my-first-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ 
+</body>
+</html>
